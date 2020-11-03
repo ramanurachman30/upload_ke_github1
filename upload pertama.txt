@@ -1,0 +1,2 @@
+ini upload pertama
+yang akan diupload ke github
